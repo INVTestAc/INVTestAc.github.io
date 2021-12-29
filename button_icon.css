@@ -1,0 +1,22 @@
+<style>
+
+.button_icon {
+border: 2px solid rgb(30,38,74);
+border-radius: 50px 50px 50px 50px;
+background-color: white;
+color: rgb(30,38,74);
+width: 90px;
+height: 90px;
+text-align: center;
+transition: 0.2s;
+color: transparent;  text-shadow: 0 0 0 darkblue;
+
+}
+
+.button_icon:hover {
+border: 1px solid rgb(30,38,74);
+background-color: rgb(30,38,74);
+color: transparent;  text-shadow: 0 0 0 white;
+transition: 0.2s;
+}
+</style>
